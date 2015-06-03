@@ -440,7 +440,7 @@ jQuery(function () {
         // lo aggiungo io
         jQuery("body").append('<div id="django_ajax_resp_loading_div"> ' +
             ' <div id="django_ajax_resp_loading_alert_div">' +
-            '	 Please Wait' +
+            ''+
             '	</div>' +
             '	</div>' +
             '');
